@@ -50,7 +50,7 @@
     .section-2 {
         display: flex;
         width: 80%;
-        margin: 0 5%;
+        margin: 0 2%;
         margin-bottom: 10%;
     }
     
@@ -178,7 +178,7 @@
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin-left: 0%;
+        margin-left: 11%;
     }
     
     .menu ul {
